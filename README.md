@@ -1,5 +1,5 @@
-# Intro_to_Terraform
-This is the complete source code to my blog post on Medium on "Intro to Terraform: Provision EC2 Instance and Install Jenkins". Check it out: 
+# Intro to Terraform: Provision EC2 Instance and Install Jenkins
+This is the complete source code to my blog post on Medium. Check it out: 
 
 PLACEHOLDER
 
